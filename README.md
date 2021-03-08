@@ -1,4 +1,4 @@
-# movie-comparison
+# Movie Comparison
 
 A web app that allows the user to type in two different movies and it will compare each movies stats. 
 
